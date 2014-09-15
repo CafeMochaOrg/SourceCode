@@ -1,8 +1,0 @@
-Design Issue::
----Title texts are leaning on the next column's border.IE/Opera
----The text of "Add to wish list" is flickering upon hovering the mouse
----In the product page,Title and category user input fields are not properly alligned.Their values are also not properly alligned
----When loading the Blog page the Social media links are being misplaced
----On the checkout page no box is coming on the State province and country dropdown field---opera 
-
-
